@@ -6,8 +6,8 @@ Software Engineer at [@moove-it](https://github.com/moove-it) focusing on iOS ap
 
 ### 📬 Get in Touch
 
-- Stackoverflow: [fdelafuente](https://stackoverflow.com/users/4687709/fdelafuente)
-- Linkedin: [delafuentealonso](https://www.linkedin.com/in/delafuentealonso)
+- [Stackoverflow](https://stackoverflow.com/users/4687709/fdelafuente)
+- [Linkedin](https://www.linkedin.com/in/delafuentealonso)
 - Email: 📨 fernando_5341@hotmail.com
 
 ### 💻 Projects
