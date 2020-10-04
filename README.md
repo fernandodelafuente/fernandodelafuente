@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello, i'm Nano 👋
 
-<!--
-**fernandodelafuente/fernandodelafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay <img src="https://image.flaticon.com/icons/svg/197/197599.svg" width="13"/>. 
 
-Here are some ideas to get you started:
+Software Engineer at [@moove-it](https://github.com/moove-it) focusing on iOS apps development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
+
+- Stackoverflow: [fdelafuente](https://stackoverflow.com/users/4687709/fdelafuente)
+- Linkedin: https://www.linkedin.com/in/delafuentealonso/
+- Email: 📨 fernando_5341@hotmail.com
+
+### 💻 Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Technology</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/fernandodelafuente/BottomSheetModal"><b>BottomSheetModal</b></a></td>
+      <td><img src="https://www.flaticon.com/svg/static/icons/svg/732/732250.svg" width="13"/> Swift, SwiftUI</td>
+      <td>A bottom sheet modal with SwiftUI</td>
+    </tr>
+  </tbody>
+</table>
