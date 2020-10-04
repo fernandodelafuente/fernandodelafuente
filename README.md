@@ -15,7 +15,7 @@ Software Engineer at [@moove-it](https://github.com/moove-it) focusing on iOS ap
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
+      <td><b>Project</b></td>
       <td><b>Technology</b></td>
       <td><b>Description</b></td>
     </tr>
