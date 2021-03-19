@@ -2,7 +2,10 @@
 
 I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay <img src="https://image.flaticon.com/icons/svg/197/197599.svg" width="13"/>. 
 
-Software Engineer at [@moove-it](https://github.com/moove-it) focusing on iOS apps development.
+🎓 - Software Engineer with 5+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile applications using a wide variety of technologies.
+
+💻 - Working at [@moove-it](https://github.com/moove-it), focusing on iOS native apps development.
+
 
 ### 📬 Get in Touch
 
