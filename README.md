@@ -1,6 +1,6 @@
 ### Hello, i'm Nano 👋
 
-I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay <img src="https://image.flaticon.com/icons/svg/197/197599.svg" width="13"/>. 
+I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay.
 
 🎓 - Software Engineer with 7+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile applications using a wide variety of technologies.
 
@@ -26,7 +26,7 @@ I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay <img
   <tbody>
     <tr>
 	    <td><a href="https://github.com/fernandodelafuente/BottomSheetModal"><b>BottomSheetModal</b></a></td>
-      <td><img src="https://www.flaticon.com/svg/static/icons/svg/732/732250.svg" width="13"/> Swift, SwiftUI</td>
+      <td>Swift, SwiftUI</td>
       <td>A bottom sheet modal with SwiftUI</td>
     </tr>
   </tbody>
