@@ -2,9 +2,9 @@
 
 I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay <img src="https://image.flaticon.com/icons/svg/197/197599.svg" width="13"/>. 
 
-🎓 - Software Engineer with 5+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile applications using a wide variety of technologies.
+🎓 - Software Engineer with 7+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile applications using a wide variety of technologies.
 
-👨🏼‍💻 - Working at [@moove-it](https://github.com/moove-it), focusing on iOS native apps development.
+👨🏼‍💻 - Working at Pirque Ventures as an iOS Engineer.
 
 
 ### 📬 Get in Touch
