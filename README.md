@@ -1,6 +1,6 @@
 ### Hello, i'm Nano 👋
 
-I'm Fernando de la Fuente (but call me Nano 😎), from Montevideo, Uruguay.
+I'm Fernando de la Fuente (also known as Nano), from Montevideo, Uruguay.
 
 🎓 - Software Engineer with 9+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile and web applications using a wide variety of technologies.
 
