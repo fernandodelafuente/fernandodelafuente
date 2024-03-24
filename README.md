@@ -4,7 +4,7 @@ I'm Fernando de la Fuente (also known as Nano 😎), from Montevideo, Uruguay �
 
 🎓 - Software Engineer with 9+ experience designing, developing, testing, publishing and maintaining iOS/Android mobile and web applications using a wide variety of technologies.
 
-👨🏼‍💻 - Working at Pirque Ventures as a Software Engineer.
+👨🏼‍💻 - Working at Pirque Ventures/HeartbeatIntel as a Software Engineer.
 
 
 ### 📬 Get in Touch
