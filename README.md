@@ -7,7 +7,7 @@ I'm Fernando de la Fuente (also known as Nano 😎), from Montevideo, Uruguay �
 👨🏼‍💻 - Working at Pirque Ventures as a Software Engineer.
 
 
-### 📬 Get in Touch
+### 📬 Get in touch
 
 - [Stackoverflow](https://stackoverflow.com/users/4687709/fdelafuente)
 - [Linkedin](https://www.linkedin.com/in/delafuentealonso)
