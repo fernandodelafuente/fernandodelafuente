@@ -3,7 +3,6 @@
 I'm Fernando de la Fuente (also known as Nano 😎), from Montevideo, Uruguay 🇺🇾.
 
 🎓 - Software Engineer with over 10 years of experience.\
-👨🏼‍💻 - Working at Pirque Ventures as a Software Engineer.
 
 
 ### 📬 Get in touch
